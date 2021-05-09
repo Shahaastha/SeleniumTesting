@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import Select
 import time
 
 
-driver = webdriver.Chrome(chrome_options=opt, executable_path="C:\Program Files\chromedriver.exe")
+driver = webdriver.Chrome(executable_path="C:\Program Files\chromedriver.exe")
 driver.get("https://www.thesparksfoundationsingapore.org/")
 
 print("\nTestCases\n")
