@@ -4,6 +4,6 @@ Task#6: Automated Testing<br><br>
 Probelm Statement: An automated script to test The Sparks Foundation website using Selenium.
 
 <hr>
-Programming Languages Used: Python<br>
+Programming Language Used: Python<br>
 IDE: Jupyter Notebook<br>
 Browser: Google Chrome<br>
